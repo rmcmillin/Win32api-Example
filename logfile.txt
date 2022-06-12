@@ -1,0 +1,3 @@
+21:54:27 05-11-2022 [INFO ] inmain.c:182 Program Started
+21:54:28 05-11-2022 [TRACE] inmain.c:117 Program closed
+21:54:28 05-11-2022 [TRACE] inmain.c:122 Program exit
